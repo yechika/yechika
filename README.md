@@ -23,8 +23,4 @@
 
 ---
 
-### 📫 Connect with Me
-- 🔗 [LinkedIn](#) | 💬 [GitHub Discussions](#) | 📧 danieldirgantara@example.com  
-- 📝 [Personal Blog](#) (Coming Soon!)
-
 💙 **Let's build something amazing together!** 🚀
