@@ -2,7 +2,7 @@
 
 🚀 Passionate about **software development**, **AI**, and **networking**  
 💡 Currently working on **Laravel projects** & **Chrome extensions**  
-🎓 Student at **Universitas Bina Nusantara** | Class of 2025  
+🎓 Student at **Universitas Bina Nusantara**   
 🎯 Interested in **backend development, AI, and cloud computing**  
 
 ---
